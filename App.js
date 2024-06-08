@@ -21,4 +21,4 @@ const parent = React.createElement("div", {id: "parent"},
 )
 
 const addRoot1 = ReactDOM.createRoot(document.getElementById("root"))
-addRoot.render(parent)
+addRoot1.render(parent)
