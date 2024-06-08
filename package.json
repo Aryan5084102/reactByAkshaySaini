@@ -1,0 +1,28 @@
+{
+  "name": "1.basic-understanding",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aryan Verma",
+  "license": "ISC",
+  "description": "This is namaste react by akhay saini",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aryan5084102/reactByAkshaySaini.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aryan5084102/reactByAkshaySaini/issues"
+  },
+  "homepage": "https://github.com/Aryan5084102/reactByAkshaySaini#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
